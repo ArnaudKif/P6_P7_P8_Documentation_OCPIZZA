@@ -1,5 +1,5 @@
 # P6_P7_P8_Documentation_OCPIZZA
-Documentation d'un projet de pizzéria OCPizza
+Documentation d'un projet de pizzeria OCPizza
 
 Synthèse des projets 6, 7 et 8 de la formation OpenClassRooms Développeur iOS.
 
